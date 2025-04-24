@@ -20,7 +20,7 @@ redirect_from:
 # ❕ Research Focus
 My research focuses on leveraging advanced artificial intelligence techniques to analyze large-scale ICU clinical data for knowledge discovery. Utilizing the MIMIC-III/IV and eICU databases, I have established substantial expertise in ICU-related studies, including:
 - Early prediction of sepsis onset in ICU patients
-- Disease Phenotype Identification
+- Disease phenotype identification
 - Short- and long-term outcome prediction for ICU patients
 - Optimal treatment policy learning from observational data
 
@@ -31,15 +31,15 @@ My research focuses on leveraging advanced artificial intelligence techniques to
   - Constructing actionable decision support frameworks when optimal policies are unattainable 
   - Theoretical characterization of decision-support capability boundaries in medical applications
 - Interpretable AI & Validation Methodologies
-  - Causal Machine Learning using observational data
-  - Interpretable Reinforcement Learning 
+  - Causal machine learning using observational data
+  - Interpretable reinforcement learning 
 
 
 # 💬 Under Review
-- (2025-04) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo*, Hongjun Kang*. Heterogeneous Policy Dynamic Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Nature Communications_)  
-- (2024-12) **Hongwei He**, Mucan Liu, Chonghui Guo*. “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction. (_IEEE Journal of Biomedical and Health Informatics_)  
-- (2024-04) Mucan Liu, Chonghui Guo*, **Hongwei He**. Timing Matters: Timing-Aware Cost Sensitive Early Sepsis Real-Time Warning. (_Annals of Operations Research_). 
-- `*Corresponding Author`
+- (2025-04) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Dynamic Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Nature Communications_)  
+- (2024-12) **Hongwei He**, Mucan Liu, Chonghui Guo\*. “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction. (_IEEE Journal of Biomedical and Health Informatics_)  
+- (2024-04) Mucan Liu, Chonghui Guo\*, **Hongwei He**. Timing Matters: Timing-Aware Cost Sensitive Early Sepsis Real-Time Warning. (_Annals of Operations Research_). 
+- `* Corresponding Author`
 
 
 # 📝 Publications
@@ -47,7 +47,7 @@ My research focuses on leveraging advanced artificial intelligence techniques to
 
 
 # 🥇 Honors and Awards
-- *2019.09 - 2023.06* China University of Petroleum (East China), Inaugural Honor Bachelor (Only 1 in major cohort of 80), Outstanding Graduation Thesis Award (University-level), Outstanding Graduate.
+- *2023.06* China University of Petroleum (East China), Inaugural Honor Bachelor (Only 1 in major cohort of 80), Outstanding Graduation Thesis Award (University-level), Outstanding Graduate.
 - *2024.10* Dalian University of Technology, Outstanding Postgraduate Student.
 - *2024.11* [1st Prize, 5th Healthcare AI Conference & Datathon](https://ai.heywhale.com/article/354.html), hosted by the Medical Innovation Research Department of the Chinese PLA General Hospital.
 
