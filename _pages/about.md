@@ -62,5 +62,5 @@ My research focuses on leveraging advanced artificial intelligence techniques to
 
 
 # 🚀 Activities
+- *2024.07*, “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction, 中国系统工程学会数据科学与知识系统工程专业委员会第四届学术年会, 辽宁大连.
 - *2025.02*, 和鲸社区医学统计系列workshop, [一种基于动态集成学习的脓毒症患者死亡风险预测方法](https://www.heywhale.com/org/task_60126ee3301534003a944773/workspace/task).
-- “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction, 中国系统工程学会数据科学与知识系统工程专业委员会第四届学术年会, 辽宁大连, 2024.07.27.
