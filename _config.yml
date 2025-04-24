@@ -1,163 +1,65 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-# Site Settings
-title                    : "Hongwei He (何宏伟)"
-description              : "Ph.D. candidate at the Institute of Systems Engineering, Dalian University of Technology. Focusing on Healthcare Analytics, Maching Learning and Reinforcement Learning. "
-repository               : "shenlanshenlan0423/shenlanshenlan0423.github.io"
-google_scholar_stats_use_cdn : true
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+<span class='anchor' id='about-me'></span>
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
-# Site Author
-author:
-  name             : "Hongwei He (何宏伟)"
-  avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Dalian University of Technology"
-  location         : "Dalian, Liaoning, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=VqfTS6kAAAAJ"
-  email            : "shenlanshenlan@mail.dlut.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/shenlanshenlan0423"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0006-2413-5024"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+# ❕ Research Focus
+My research focuses on leveraging advanced artificial intelligence techniques to analyze large-scale ICU clinical data for knowledge discovery. Utilizing the MIMIC-III/IV and eICU databases, I have established substantial expertise in ICU-related studies, including:
+- Early prediction of sepsis onset in ICU patients
+- Disease phenotype identification
+- Short- and long-term outcome prediction for ICU patients
+- Optimal treatment policy learning from observational data
 
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - docs
-  - google_scholar_crawler
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .github
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# ⭕ Current Research Interests
+- Decision-making under Uncertainty
+  - Developing robust policy optimization methods for heterogeneous clinical datasets
+  - Constructing actionable decision support frameworks when optimal policies are unattainable 
+  - Theoretical characterization of decision-support capability boundaries in medical applications
+- Interpretable AI & Validation Methodologies
+  - Causal machine learning using observational data
+  - Interpretable reinforcement learning 
 
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+# 💬 Under Review
+- (2025-04) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Dynamic Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Nature Communications_)  
+- (2024-12) **Hongwei He**, Mucan Liu, Chonghui Guo\*. “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction. (_IEEE Journal of Biomedical and Health Informatics_)  
+- (2024-04) Mucan Liu, Chonghui Guo\*, **Hongwei He**. Timing Matters: Timing-Aware Cost Sensitive Early Sepsis Real-Time Warning. (_Annals of Operations Research_). 
+- `* Corresponding Author`
 
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
+# 📝 Publications
+- [Chai, R., **He, H.**, Liu, D., & Chen, J. (2024). A fuzzy multi-objective programming model for the delivery and distribution of humanitarian relief materials. Engineering Applications of Artificial Intelligence, 137, 109113.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012715)
 
 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+# 🥇 Honors and Awards
+- *2023.06* China University of Petroleum (East China), Inaugural Honor Bachelor (Only 1 in major cohort of 80), Outstanding Graduation Thesis Award (University-level), Outstanding Graduate.
+- *2024.10* Dalian University of Technology, Outstanding Postgraduate Student.
+- *2024.11* [1st Prize, 5th Healthcare AI Conference & Datathon](https://ai.heywhale.com/article/354.html), hosted by the Medical Innovation Research Department of the Chinese PLA General Hospital.
 
 
-# Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# 📖 Educations
+- *2019.09 - 2023.06*
+  - China University of Petroleum (East China), School of Economics & Management, Information Management and Information Systems, Bachelor of Management. 
+  - 中国石油大学（华东），经济管理学院，信息管理与信息系统，管理学学士. 
+- *2023.09 - Present*
+  - Dalian University of Technology, School of Economics & Management, Institute of Systems Engineering, Ph.D. Candidate in Management Science and Engineering. 
+  - 大连理工大学，经济管理学院，系统工程研究所，管理科学与工程专业在读博士生. 
 
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# 🚀 Activities
+- *2025.02*, 和鲸社区医学统计系列workshop, [一种基于动态集成学习的脓毒症患者死亡风险预测方法](https://www.heywhale.com/org/task_60126ee3301534003a944773/workspace/task).
