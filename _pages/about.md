@@ -43,7 +43,7 @@ My research focuses on leveraging advanced artificial intelligence techniques to
 
 
 # 📝 Publications
-- [Chai, R., **He, H.**, Liu, D., & Chen, J. (2024). A fuzzy multi-objective programming model for the delivery and distribution of humanitarian relief materials. Engineering Applications of Artificial Intelligence, 137, 109113.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012715)
+- [Chai, R., **He, H.**, Liu, D., & Chen, J. (2024). A fuzzy multi-objective programming model for the delivery and distribution of humanitarian relief materials. Engineering Applications of Artificial Intelligence, 137, 109113.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012715) (中科院一区, JCR Q1, IF=7.5)
 
 
 # 🥇 Honors and Awards
