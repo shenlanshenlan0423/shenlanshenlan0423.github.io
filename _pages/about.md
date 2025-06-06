@@ -36,7 +36,7 @@ My research focuses on leveraging advanced artificial intelligence techniques to
 
 
 # 💬 Under Review
-- (2025-05) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Dynamic Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_AI in Medicine_)  
+- (2025-05) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Dynamic Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Artificial Intelligence in Medicine_)  
 - (2024-12) **Hongwei He**, Mucan Liu, Chonghui Guo\*. “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction. (_IEEE Journal of Biomedical and Health Informatics_)  
 - (2024-04) Mucan Liu, Chonghui Guo\*, **Hongwei He**. Timing Matters: Timing-Aware Cost Sensitive Early Sepsis Real-Time Warning. (_Annals of Operations Research_). 
 - `* Corresponding Author`
