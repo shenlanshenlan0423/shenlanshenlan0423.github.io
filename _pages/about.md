@@ -17,6 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+# 📖 Educations
+- *2019.09 - 2023.06*
+  - China University of Petroleum (East China), School of Economics & Management, Information Management and Information Systems, Bachelor of Management. 
+  - 中国石油大学（华东），经济管理学院，信息管理与信息系统，管理学学士. 
+- *2023.09 - Present*
+  - Dalian University of Technology, School of Economics & Management, Institute of Systems Engineering, Ph.D. Candidate in Management Science and Engineering. 
+  - 大连理工大学，经济管理学院，系统工程研究所，管理科学与工程专业在读博士生. 
+
+
 # ❕ Research Focus
 My research interests include data mining, machine learning, deep learning, and reinforcement learning, with methodological advances in computer science (e.g., explainable AI and dynamic system modeling) and information systems (e.g., predictive modeling, prescriptive analytics, and human-AI collaboration). Utilizing the MIMIC-III/IV and eICU databases, I have established substantial expertise in ICU-related studies, including:
 - Early prediction of sepsis onset in ICU patients
@@ -34,8 +44,10 @@ My research interests include data mining, machine learning, deep learning, and 
   - Causal machine learning using observational data
   - Interpretable reinforcement learning 
 
+
 # ✒️ Working Papers
 - (2025-10) **Hongwei He**, Chonghui Guo\*. Human-intelligible sequential decision-making in critical care: An interpretable reinforcement learning approach with hierarchical heterogeneity awareness.
+
 
 # 💬 Under Review
 - (2025-05) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Adaptive Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Artificial Intelligence in Medicine_)  
@@ -50,19 +62,10 @@ My research interests include data mining, machine learning, deep learning, and 
 
 # 🥇 Honors and Awards
 - **2025.10** Excellence Scholarship for Doctoral Students, Outstanding Postgraduate Student, Dalian University of Technology.
-- **2025.07** Outstanding Participant (29/500+), [1st "AI for Business" Summer School](https://fbs.ustc.edu.cn/2025/0710/c37242a690882/page.htm), Faculty of Business for Science \& Technology, University of Science and Technology of China.
+- **2025.07** Outstanding Participant (29/500+), [1st "AI for Business" Summer School](https://fbs.ustc.edu.cn/2025/0710/c37242a690882/page.htm), Faculty of Business for Science & Technology, University of Science and Technology of China.
 - **2024.11** [1st Prize, 5th Healthcare AI Conference \& Datathon](https://ai.heywhale.com/article/354.html), hosted by the Medical Innovation Research Department of the Chinese PLA General Hospital.
 - **2024.10** Outstanding Postgraduate Student, Dalian University of Technology.
 - **2023.06** Honor Bachelor (1/82), Outstanding Graduation Thesis Award, Outstanding Graduate, China University of Petroleum (East China).
-
-
-# 📖 Educations
-- *2019.09 - 2023.06*
-  - China University of Petroleum (East China), School of Economics & Management, Information Management and Information Systems, Bachelor of Management. 
-  - 中国石油大学（华东），经济管理学院，信息管理与信息系统，管理学学士. 
-- *2023.09 - Present*
-  - Dalian University of Technology, School of Economics & Management, Institute of Systems Engineering, Ph.D. Candidate in Management Science and Engineering. 
-  - 大连理工大学，经济管理学院，系统工程研究所，管理科学与工程专业在读博士生. 
 
 
 # 🚀 Activities
