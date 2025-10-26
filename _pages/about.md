@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ❕ Research Focus
-My research focuses on leveraging advanced artificial intelligence techniques to analyze large-scale ICU clinical data for knowledge discovery. Utilizing the MIMIC-III/IV and eICU databases, I have established substantial expertise in ICU-related studies, including:
+My research interests include data mining, machine learning, deep learning, and reinforcement learning, with methodological advances in computer science (e.g., explainable AI and dynamic system modeling) and information systems (e.g., predictive modeling, prescriptive analytics, and human-AI collaboration). Utilizing the MIMIC-III/IV and eICU databases, I have established substantial expertise in ICU-related studies, including:
 - Early prediction of sepsis onset in ICU patients
 - Disease phenotype identification
 - Short- and long-term outcome prediction for ICU patients
@@ -34,22 +34,26 @@ My research focuses on leveraging advanced artificial intelligence techniques to
   - Causal machine learning using observational data
   - Interpretable reinforcement learning 
 
+# ✒️ Working Papers
+- (2025-10) **Hongwei He**, Chonghui Guo\*. Human-intelligible sequential decision-making in critical care: An interpretable reinforcement learning approach with hierarchical heterogeneity awareness.
 
 # 💬 Under Review
 - (2025-05) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Adaptive Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Artificial Intelligence in Medicine_)  
-- (2024-12) **Hongwei He**, Mucan Liu, Chonghui Guo\*. “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction. (_IEEE Journal of Biomedical and Health Informatics_)  
 - (2024-04) Mucan Liu, Chonghui Guo\*, **Hongwei He**. Timing Matters: Timing-Aware Cost Sensitive Early Sepsis Real-Time Warning. (_Annals of Operations Research_). 
 - `* Corresponding Author`
 
 
 # 📝 Publications
+- [**He, H.**, Liu, M., & Guo, C. (2025). “Dynamic ensemble, then knowledge distillation”: A SHAP-driven two-stage framework for sepsis mortality prediction. IEEE Journal of Biomedical and Health Informatics (Accepted).](https://ieeexplore.ieee.org/document/11119081) (JCR Q1, IF=6.8)
 - [Chai, R., **He, H.**, Liu, D., & Chen, J. (2024). A fuzzy multi-objective programming model for the delivery and distribution of humanitarian relief materials. Engineering Applications of Artificial Intelligence, 137, 109113.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012715) (中科院一区, JCR Q1, IF=7.5)
 
 
 # 🥇 Honors and Awards
-- *2023.06* China University of Petroleum (East China), Inaugural Honor Bachelor (Only 1 in major cohort of 80), Outstanding Graduation Thesis Award (University-level), Outstanding Graduate.
-- *2024.10* Dalian University of Technology, Outstanding Postgraduate Student.
-- *2024.11* [1st Prize, 5th Healthcare AI Conference & Datathon](https://ai.heywhale.com/article/354.html), hosted by the Medical Innovation Research Department of the Chinese PLA General Hospital.
+- **2025.10** Excellence Scholarship for Doctoral Students, Outstanding Postgraduate Student, Dalian University of Technology.
+- **2025.07** Outstanding Participant (29/500+), [1st "AI for Business" Summer School](https://fbs.ustc.edu.cn/2025/0710/c37242a690882/page.htm), Faculty of Business for Science \& Technology, University of Science and Technology of China.
+- **2024.11** [1st Prize, 5th Healthcare AI Conference \& Datathon](https://ai.heywhale.com/article/354.html), hosted by the Medical Innovation Research Department of the Chinese PLA General Hospital.
+- **2024.10** Outstanding Postgraduate Student, Dalian University of Technology.
+- **2023.06** Honor Bachelor (1/82), Outstanding Graduation Thesis Award, Outstanding Graduate, China University of Petroleum (East China).
 
 
 # 📖 Educations
