@@ -45,10 +45,6 @@ My research interests include data mining, machine learning, deep learning, and 
   - Interpretable reinforcement learning 
 
 
-# ✒️ Working Papers
-- (2025-10) **Hongwei He**, Chonghui Guo\*. Human-intelligible sequential decision-making in critical care: An interpretable reinforcement learning approach with hierarchical heterogeneity awareness.
-
-
 # 💬 Under Review
 - (2025-05) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Adaptive Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Artificial Intelligence in Medicine_)  
 - (2024-04) Mucan Liu, Chonghui Guo\*, **Hongwei He**. Timing Matters: Timing-Aware Cost Sensitive Early Sepsis Real-Time Warning. (_Annals of Operations Research_). 
