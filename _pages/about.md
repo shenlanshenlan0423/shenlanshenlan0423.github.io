@@ -19,12 +19,12 @@ redirect_from:
 
 
 # 📖 Educations
-- *2019.09 - 2023.06*
-  - China University of Petroleum (East China), School of Economics & Management, Information Management and Information Systems, Bachelor of Management. 
-  - 中国石油大学（华东），经济管理学院，信息管理与信息系统，管理学学士. 
 - *2023.09 - Present*
   - Dalian University of Technology, School of Economics & Management, Institute of Systems Engineering, Ph.D. Candidate in Management Science and Engineering. 
   - 大连理工大学，经济管理学院，系统工程研究所，管理科学与工程专业在读博士生. 
+- *2019.09 - 2023.06*
+  - China University of Petroleum (East China), School of Economics & Management, Information Management and Information Systems, Bachelor of Management. 
+  - 中国石油大学（华东），经济管理学院，信息管理与信息系统，管理学学士. 
 
 
 # ❕ Research Focus
@@ -55,6 +55,9 @@ My research interests include data mining, machine learning, deep learning, and 
 - [**He, H.**, Liu, M., & Guo, C. (2025). “Dynamic ensemble, then knowledge distillation”: A SHAP-driven two-stage framework for sepsis mortality prediction. IEEE Journal of Biomedical and Health Informatics (Accepted).](https://ieeexplore.ieee.org/document/11119081) (JCR Q1, IF=6.8)
 - [Chai, R., **He, H.**, Liu, D., & Chen, J. (2024). A fuzzy multi-objective programming model for the delivery and distribution of humanitarian relief materials. Engineering Applications of Artificial Intelligence, 137, 109113.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012715) (中科院一区, JCR Q1, IF=7.5)
 
+
+# 📖 Research Projects
+- **2025.12–2026.06** Doctoral Research Fund, School of Economics and Management, Dalian University of Technology (¥20,000), “Reinforcement Learning-Based Dynamic Treatment Regimen Recommendation in the ICU.” _Principal Investigator_.
 
 # 🥇 Honors and Awards
 - **2025.10** Excellence Scholarship for Doctoral Students, Outstanding Postgraduate Student, Dalian University of Technology.
