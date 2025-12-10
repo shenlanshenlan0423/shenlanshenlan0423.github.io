@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 📖 Educations
+# 🏫 Educations
 - *2023.09 - Present*
   - Dalian University of Technology, School of Economics & Management, Institute of Systems Engineering, Ph.D. Candidate in Management Science and Engineering. 
   - 大连理工大学，经济管理学院，系统工程研究所，管理科学与工程专业在读博士生. 
@@ -27,7 +27,7 @@ redirect_from:
   - 中国石油大学（华东），经济管理学院，信息管理与信息系统，管理学学士. 
 
 
-# ❕ Research Focus
+# 🚗 Research Experience
 My research interests include data mining, machine learning, deep learning, and reinforcement learning, with methodological advances in computer science (e.g., explainable AI and dynamic system modeling) and information systems (e.g., predictive modeling, prescriptive analytics, and human-AI collaboration). Utilizing the MIMIC-III/IV and eICU databases, I have established substantial expertise in ICU-related studies, including:
 - Early prediction of sepsis onset in ICU patients
 - Disease phenotype identification
@@ -57,7 +57,8 @@ My research interests include data mining, machine learning, deep learning, and 
 
 
 # 📖 Research Projects
-- **2025.12–2026.06** Doctoral Research Fund, School of Economics and Management, Dalian University of Technology (¥20,000), “Reinforcement Learning-Based Dynamic Treatment Regimen Recommendation in the ICU.” _Principal Investigator_.
+- **2025.12–2027.06** Doctoral Research Fund, School of Economics and Management, Dalian University of Technology (¥20,000), “Reinforcement Learning-Based Dynamic Treatment Regimen Recommendation in the ICU.” _Principal Investigator_.
+
 
 # 🥇 Honors and Awards
 - **2025.10** Excellence Scholarship for Doctoral Students, Outstanding Postgraduate Student, Dalian University of Technology.
@@ -68,5 +69,5 @@ My research interests include data mining, machine learning, deep learning, and 
 
 
 # 🚀 Activities
-- *2024.07*, “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction, 中国系统工程学会数据科学与知识系统工程专业委员会第四届学术年会, 辽宁大连.
 - *2025.02*, 和鲸社区医学统计系列workshop, [一种基于动态集成学习的脓毒症患者死亡风险预测方法](https://www.heywhale.com/org/task_60126ee3301534003a944773/workspace/task).
+- *2024.07*, “Dynamic Ensemble, then Knowledge Distillation”: A SHAP-driven Two-Stage Framework for Sepsis Mortality Prediction, 中国系统工程学会数据科学与知识系统工程专业委员会第四届学术年会, 辽宁大连.
