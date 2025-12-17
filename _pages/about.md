@@ -45,15 +45,15 @@ My research interests include data mining, machine learning, deep learning, and 
   - Interpretable reinforcement learning 
 
 
-# 💬 Under Review
+# 💬 Manuscripts Under Review
 - (2025-05) **Hongwei He**, Yun Li, Yuan Cao, Mucan Liu, Chonghui Guo\*, Hongjun Kang\*. Heterogeneous Policy Adaptive Fusion with Offline Reinforcement Learning for Sepsis-induced Thrombocytopenia Treatment Recommendation. (_Artificial Intelligence in Medicine_)  
 - (2024-04) Mucan Liu, Chonghui Guo\*, **Hongwei He**. Timing Matters: Timing-Aware Cost Sensitive Early Sepsis Real-Time Warning. (_Annals of Operations Research_). 
 - `* Corresponding Author`
 
 
 # 📝 Publications
-- [**He, H.**, Liu, M., & Guo, C. (2025). “Dynamic ensemble, then knowledge distillation”: A SHAP-driven two-stage framework for sepsis mortality prediction. IEEE Journal of Biomedical and Health Informatics (Accepted).](https://ieeexplore.ieee.org/document/11119081) (JCR Q1, IF=6.8)
-- [Chai, R., **He, H.**, Liu, D., & Chen, J. (2024). A fuzzy multi-objective programming model for the delivery and distribution of humanitarian relief materials. Engineering Applications of Artificial Intelligence, 137, 109113.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012715) (中科院一区, JCR Q1, IF=7.5)
+- [**He, H.**, Liu, M., & Guo, C. (2025). “Dynamic ensemble, then knowledge distillation”: A SHAP-driven two-stage framework for sepsis mortality prediction. IEEE Journal of Biomedical and Health Informatics, 29(11), 8550–8559.](https://ieeexplore.ieee.org/document/11119081) (JCR Q1, IF=6.8)
+- [Chai, R., **He, H.**, Liu, D., & Chen, J. (2024). A fuzzy multi-objective programming model for the delivery and distribution of humanitarian relief materials. Engineering Applications of Artificial Intelligence. 137, 109113.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012715) (中科院一区, JCR Q1, IF=7.5)
 
 
 # 📖 Research Projects
